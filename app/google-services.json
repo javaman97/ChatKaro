@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733589158506",
+    "firebase_url": "https://chatkaro-6be40-default-rtdb.firebaseio.com",
+    "project_id": "chatkaro-6be40",
+    "storage_bucket": "chatkaro-6be40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733589158506:android:c5f47acce8166b2d82a813",
+        "android_client_info": {
+          "package_name": "com.example.chatkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733589158506-62127j86hju8bqg9c1315dtv5ceiteti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZOBef6T10uTE1fCHGp4G3YlhPg1Y9c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733589158506-62127j86hju8bqg9c1315dtv5ceiteti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
